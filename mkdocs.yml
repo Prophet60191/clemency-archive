@@ -7,13 +7,11 @@ theme:
     - navigation.tabs
     - navigation.sections
     - navigation.top
+  logo: assets/logo.png
   palette:
-    - scheme: default
-      primary: blue
-      accent: indigo
     - scheme: slate
-      primary: blue
-      accent: indigo
+      primary: indigo
+      accent: grey
 
 nav:
   - 'Welcome': 'index.md'
