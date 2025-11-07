@@ -44,7 +44,16 @@ Documents related to recruiting, training, and managing the volunteer team.
 
 ---
 
-## 5. Project Trackers
+## 5. Technical Tools
+
+These documents define the technical tools and infrastructure used to support the project.
+
+*   [**Technical Requirements & Specs**](./0_Project_Management/project_binder/3_Technical_Tools/Technical_Requirements_Document.md): High-level specifications for the custom application.
+*   [**Website Management Guide**](./0_Project_Management/project_binder/Website_Management_Guide.md): Your personal guide to managing the public-facing project website.
+
+---
+
+## 6. Project Trackers
 
 Live documents used to manage the day-to-day progress of the project.
 

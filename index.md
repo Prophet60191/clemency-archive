@@ -9,7 +9,7 @@ This repository contains all project files related to the digitization and analy
 
 ## Project Overview
 
-Currently, accessing data related to executive clemency in New York State is restricted to Freedom of Information Law (FOIL) requests, presenting a significant barrier to research. This project aims to address this problem by digitizing and cataloging executive clemency information from the state archive, making it accessible and searchable for the first time.
+For centuries, the personal stories of New Yorkers who sought mercy from the state's carceral system have been locked away in physical archives, accessible only through slow and costly public records requests. This has created a significant barrier not just to research, but to our collective understanding of justice, memory, and freedom. This project is a direct intervention to **democratize this hidden history**. We are building a **public knowledge archive** to digitize these records, making the individual **narratives of resilience** and pleas for a second chance accessible to scholars, families, and the public for the very first time.
 
 For a full overview of the project's mission, goals, and plan, please see the [**Clemency Archive Proposal**](./Clemency_Archive_Proposal.md).
 
