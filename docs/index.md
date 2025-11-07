@@ -17,11 +17,27 @@ For a full overview of the project's mission, goals, and plan, please see the [*
 
 This repository is organized into the following directories:
 
-*   **`0_Project_Management/`**: Contains all high-level planning documents, project trackers, and the central `project_binder` which holds all operational guides and schemas.
-    *   **Key Document:** [**Master Project Plan**](./0_Project_Management/project_binder/Master_Project_Plan.md)
+*   **`0_Project_Management/`**: Contains all high-level planning documents, project trackers, and the central `project_binder`.
+    *   [Master Document Index](./_Master_Document_Index.md)
+    *   [Master Project Plan](./0_Project_Management/project_binder/Master_Project_Plan.md)
+    *   [Project Leader's Playbook](./0_Project_Management/project_binder/Project_Leader_Playbook.md)
+    *   [Communications Plan](./0_Project_Management/project_binder/Communications_Plan.md)
+    *   **Data Blueprint:**
+        *   [Data Schema Dictionary](./0_Project_Management/project_binder/1_Data_Blueprint/Data_Schema_Dictionary.md)
+        *   [Data Entry Guide](./0_Project_Management/project_binder/1_Data_Blueprint/Data_Entry_Guide.md)
+        *   [Controlled Vocabularies](./0_Project_Management/project_binder/1_Data_Blueprint/Controlled_Vocabularies.md)
+        *   [Data Ethics & Privacy Policy](./0_Project_Management/project_binder/1_Data_Blueprint/Data_Ethics_Privacy_Policy.md)
+    *   **Volunteer Management:**
+        *   [Volunteer Role Descriptions](./0_Project_Management/project_binder/2_Volunteer_Management/Volunteer_Role_Descriptions.md)
+        *   [Volunteer Welcome Packet](./0_Project_Management/project_binder/2_Volunteer_Management/Volunteer_Welcome_Packet_Agreement.md)
+        *   [Recruitment Email Template](./0_Project_Management/project_binder/2_Volunteer_Management/Recruitment_Email_Template.md)
+        *   [Verification Workflow](./0_Project_Management/project_binder/2_Volunteer_Management/Verification_Workflow.md)
+    *   **Technical Tools:**
+        *   [Technical Requirements Document](./0_Project_Management/project_binder/3_Technical_Tools/Technical_Requirements_Document.md)
+        *   [Website Management Guide](./0_Project_Management/project_binder/Website_Management_Guide.md)
 
-*   **`1_Source_Materials/`**: Contains finding aids from the New York State Archives that describe the source records. The digitized ledger scans will also be stored here.
-    *   **Key Document:** [**Finding Aids Index**](./1_Source_Materials/finding_aids/_Finding_Aids_Index.md)
+*   **`1_Source_Materials/`**: Contains finding aids from the New York State Archives.
+    *   [Finding Aids Index](./1_Source_Materials/finding_aids/_Finding_Aids_Index.md)
 
 *   **`2_Correspondence/`**: A log of official communications, such as requests made to the state archives.
 
