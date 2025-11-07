@@ -1,0 +1,40 @@
+site_name: NYS Clemency Archive
+site_description: 'A public knowledge archive of the New York State Executive Clemency Records.'
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+  palette:
+    - scheme: default
+      primary: blue
+      accent: indigo
+    - scheme: slate
+      primary: blue
+      accent: indigo
+
+nav:
+  - 'Welcome': 'index.md'
+  - 'Getting Started': 'START_HERE.md'
+  - 'Project Proposals':
+    - 'Humanities Proposal': 'Clemency_Archive_Humanities_Proposal.md'
+    - 'Original Proposal': 'Clemency_Archive_Proposal.md'
+  - 'Project Management':
+    - 'Master Index': '_Master_Document_Index.md'
+    - 'Master Plan': '0_Project_Management/project_binder/Master_Project_Plan.md'
+    - "Leader's Playbook": '0_Project_Management/project_binder/Project_Leader_Playbook.md'
+    - 'Meeting Notes': 'Meetings/archive_meeting_11_07_2025.md'
+  - 'Data Blueprint':
+    - 'Schema Dictionary': '0_Project_Management/project_binder/1_Data_Blueprint/Data_Schema_Dictionary.md'
+    - 'Data Entry Guide': '0_Project_Management/project_binder/1_Data_Blueprint/Data_Entry_Guide.md'
+    - 'Controlled Vocabularies': '0_Project_Management/project_binder/1_Data_Blueprint/Controlled_Vocabularies.md'
+    - 'Ethics & Privacy Policy': '0_Project_Management/project_binder/1_Data_Blueprint/Data_Ethics_Privacy_Policy.md'
+  - 'Volunteer Resources':
+    - 'Role Descriptions': '0_Project_Management/project_binder/2_Volunteer_Management/Volunteer_Role_Descriptions.md'
+    - 'Welcome Packet': '0_Project_Management/project_binder/2_Volunteer_Management/Volunteer_Welcome_Packet_Agreement.md'
+    - 'Verification Workflow': '0_Project_Management/project_binder/2_Volunteer_Management/Verification_Workflow.md'
+    - 'Recruitment Email': '0_Project_Management/project_binder/2_Volunteer_Management/Recruitment_Email_Template.md'
+    - 'Slack Guide': '0_Project_Management/project_binder/2_Volunteer_Management/Slack_Setup_Guide.md'
+
