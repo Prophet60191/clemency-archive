@@ -27,7 +27,6 @@ This repository is organized into the following directories:
 
 *   **`3_Data/`**: Contains the raw and processed data, including spreadsheets exported from our data entry process.
 
-*   **`Meetings/`**: Contains notes and action items from all project-related meetings.
 
 ## Getting Started
 

@@ -1,6 +1,9 @@
 # Imagining Freedom in Place: A Proposal to Create a Public Knowledge Archive of New York's Clemency History
 
-**Proposal drafted by:** Jose DiLenola, joselaurdil@gmail.com
+**Proposal drafted by:** Jose DiLenola
+RAPP Clemency Campaign Director
+585-474-1522
+jose.dilenola@rappcampaign.com
 
 ---
 
@@ -14,7 +17,7 @@ This proposal outlines a Digital Humanities project to create a public-facing kn
 
 ### Imagining Freedom: Recovering Narratives of Resilience
 
-At its heart, this project is an effort to recover and amplify the voices of those who have been subject to the state's carceral power. Each of the thousands of records in this archive contains a **narrative of resistance and resilience**—a personal plea for freedom, a second chance, or a restoration of rights. By making these stories accessible, we provide the raw material for a profound **humanistic inquiry** into the lived experience of incarceration and the enduring hope for freedom. The archive will serve as a powerful tool for scholars, artists, and the public to engage with the historical and cultural contexts of the justice system, moving beyond statistics to understand the human stories they represent.
+At its heart, this project is an effort to recover and amplify the voices of those who have been subject to the state's carceral power. Each of the tens of thousands of records in this archive contains a **narrative of resistance and resilience**—a personal plea for freedom, a second chance, or a restoration of rights. By making these stories accessible, we provide the raw material for a profound **humanistic inquiry** into the lived experience of incarceration and the enduring hope for freedom. The archive will serve as a powerful tool for scholars, artists, and the public to engage with the historical and cultural contexts of the justice system, moving beyond statistics to understand the human stories they represent.
 
 ### Public Knowledge: Democratizing Access to a Hidden History
 
