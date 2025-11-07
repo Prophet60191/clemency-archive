@@ -34,7 +34,6 @@ This repository is organized into the following directories:
         *   [Verification Workflow](./0_Project_Management/project_binder/2_Volunteer_Management/Verification_Workflow.md)
     *   **Technical Tools:**
         *   [Technical Requirements Document](./0_Project_Management/project_binder/3_Technical_Tools/Technical_Requirements_Document.md)
-        *   [Website Management Guide](./0_Project_Management/project_binder/Website_Management_Guide.md)
 
 *   **`1_Source_Materials/`**: Contains finding aids from the New York State Archives.
     *   [Finding Aids Index](./1_Source_Materials/finding_aids/_Finding_Aids_Index.md)

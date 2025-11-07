@@ -9,7 +9,6 @@
 These documents define the project's mission, scope, and high-level timeline.
 
 *   [**Clemency Archive Proposal**](./Clemency_Archive_Proposal.md): The original proposal outlining the project's purpose, objectives, and rationale.
-*   [**Master Project Plan**](./0_Project_Management/project_binder/Master_Project_Plan.md): The high-level roadmap and timeline for all project phases.
 
 ---
 
