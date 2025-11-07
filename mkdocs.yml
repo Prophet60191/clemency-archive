@@ -25,7 +25,6 @@ nav:
     - 'Master Index': '_Master_Document_Index.md'
     - 'Master Plan': '0_Project_Management/project_binder/Master_Project_Plan.md'
     - "Leader's Playbook": '0_Project_Management/project_binder/Project_Leader_Playbook.md'
-    - 'Meeting Notes': 'Meetings/archive_meeting_11_07_2025.md'
   - 'Data Blueprint':
     - 'Schema Dictionary': '0_Project_Management/project_binder/1_Data_Blueprint/Data_Schema_Dictionary.md'
     - 'Data Entry Guide': '0_Project_Management/project_binder/1_Data_Blueprint/Data_Entry_Guide.md'
