@@ -11,7 +11,7 @@ This repository contains all project files related to the digitization and analy
 
 For centuries, the personal stories of New Yorkers who sought mercy from the state's carceral system have been locked away in physical archives, accessible only through slow and costly public records requests. This has created a significant barrier not just to research, but to our collective understanding of justice, memory, and freedom. This project is a direct intervention to **democratize this hidden history**. We are building a **public knowledge archive** to digitize these records, making the individual **narratives of resilience** and pleas for a second chance accessible to scholars, families, and the public for the very first time.
 
-For a full overview of the project's mission, goals, and plan, please see the [**Clemency Archive Proposal**](./Clemency_Archive_Proposal.md).
+For a full overview of the project's mission, goals, and plan, please see the [**Clemency Archive Proposal**](./Clemency_Archive_Humanities_Proposal.md).
 
 ## Directory Structure
 
