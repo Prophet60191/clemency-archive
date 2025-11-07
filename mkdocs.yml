@@ -1,6 +1,10 @@
 site_name: Release Aging People in Prison Campaign - New York State Executive Clemency Archive
 site_description: 'A public knowledge archive of the New York State Executive Clemency Records.'
 
+plugins:
+  - search
+  - blog
+
 theme:
   name: material
   features:
@@ -12,6 +16,15 @@ theme:
     - scheme: slate
       primary: indigo
       accent: grey
+
+extra:
+  social:
+    - icon: fontawesome/solid/globe
+      name: RAPP Campaign Website
+      link: https://rappcampaign.com/
+    - icon: fontawesome/solid/gavel
+      name: NYS Clemency Website
+      link: https://newyorkstateexecutiveclemency.godaddysites.com/
 
 nav:
   - 'Welcome': 'index.md'
