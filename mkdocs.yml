@@ -28,6 +28,7 @@ extra:
 
 nav:
   - 'Welcome': 'index.md'
+  - 'Blog': 'blog/index.md'
   - 'Getting Started': 'START_HERE.md'
   - 'Project Proposals':
     - 'Humanities Proposal': 'Clemency_Archive_Humanities_Proposal.md'
