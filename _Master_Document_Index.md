@@ -29,6 +29,7 @@ These documents define what data we are collecting and how we are collecting it.
 *   [**Controlled Vocabularies**](./0_Project_Management/project_binder/1_Data_Blueprint/Controlled_Vocabularies.md): The official, standardized lists of terms for key fields.
 *   [**Data Entry Guide**](./0_Project_Management/project_binder/1_Data_Blueprint/Data_Entry_Guide.md): The primary training manual for all data transcribers.
 *   [**Data Ethics & Privacy Policy**](./0_Project_Management/project_binder/1_Data_Blueprint/Data_Ethics_Privacy_Policy.md): Guidelines for handling sensitive information.
+*   [**Data Visualization Strategy**](./0_Project_Management/project_binder/1_Data_Blueprint/Data_Visualization_Strategy.md): A plan for creating compelling visual stories with the data.
 
 ---
 
@@ -48,7 +49,7 @@ Documents related to recruiting, training, and managing the volunteer team.
 
 These documents define the technical tools and infrastructure used to support the project.
 
-*   [**Technical Requirements & Specs**](./0_Project_Management/project_binder/3_Technical_Tools/Technical_Requirements_Document.md): High-level specifications for the custom application.
+*   [**Data Security & Management Plan**](./0_Project_Management/project_binder/3_Technical_Tools/Data_Security_Management_Plan.md): The official policies for managing, securing, and preserving all project data.
 
 ---
 
