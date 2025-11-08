@@ -10,6 +10,7 @@ theme:
     - navigation.tabs
     - navigation.sections
     - navigation.top
+    - content.code.annotate
   logo: assets/logo.png
   palette:
     - scheme: slate
@@ -24,6 +25,8 @@ extra:
     - icon: fontawesome/solid/gavel
       name: NYS Clemency Website
       link: https://newyorkstateexecutiveclemency.godaddysites.com/
+
+copyright: Copyright &copy; 2025 RAPP Campaign
 
 nav:
   - 'Welcome': 'index.md'
