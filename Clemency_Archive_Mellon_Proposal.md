@@ -1,6 +1,5 @@
 # Imagining Freedom in Place: A Proposal to Create a Public Knowledge Archive of New York's Clemency History
 
-**Proposal drafted by:** Jose DiLenola, RAPP Clemency Campaign Director, jose.dilenola@rappcampaign.com
 
 ---
 

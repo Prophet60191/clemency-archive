@@ -31,7 +31,7 @@ All project data is classified into one of two categories:
 Access to data is governed by the principle of **least privilege**.
 
 *   **Level 3 (Project Leader):** Full administrative access to all project data, storage systems, and databases.
-    *   *Current Holder: Jose DiLenola*
+    *   *Current Holder: [REDACTED]*
 
 *   **Level 2 (Team Leads/Developers):** Access to specific datasets and systems required for their role (e.g., access to the production database for maintenance). Does not include access to raw PII unless explicitly required and approved.
     *   *Current Holders: [List Names/Roles]*

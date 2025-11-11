@@ -1,5 +1,4 @@
 # New York State Executive Clemency Archive Proposal
-**Proposal drafted by:** Jose DiLenola, RAPP Clemency Campaign Director, jose.dilenola@rappcampaign.com
 
 ## Table of Contents
 

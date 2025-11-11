@@ -20,5 +20,3 @@ Thank you for considering this opportunity to help us bring this vital history t
 
 Sincerely,
 
-Jose DiLenola
-RAPP Clemency Campaign Director

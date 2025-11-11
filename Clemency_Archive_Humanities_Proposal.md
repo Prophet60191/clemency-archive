@@ -1,6 +1,5 @@
 # The New York State Executive Clemency Archive: A Proposal for a Digital Humanities Project
 
-**Proposal drafted by:** Jose DiLenola, RAPP Clemency Campaign Director, jose.dilenola@rappcampaign.com
 
 ---
 
